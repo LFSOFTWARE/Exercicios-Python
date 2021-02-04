@@ -1,0 +1,3 @@
+# Exercicios-Python
+Repositorio de resoluções de exercicios 
+referente ao curso de  python ..funções,objetos e classes...
